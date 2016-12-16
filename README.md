@@ -7,7 +7,7 @@ ADB Hos复制自:[vokins](https://github.com/vokins/yhosts)
 
 **更新历史:**
 
-`2016/12/16 9:59 Go Host更新至40/2016-12-15 123:21:59版本`
+`2016/12/16 9:59 Go Host更新至40/2016-12-15 23:21:59版本`
 
 优化Facebook 
 
